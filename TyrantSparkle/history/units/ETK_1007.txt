@@ -56,7 +56,7 @@ division_template = {
 	}
 }
 division_template = {
-	name = "Star Armor"			#Tanks
+	name = "Armored Core"			#Tanks
 	division_names_group = EQS_ARM_01
 	regiments = {
 		light_armor = { x = 0 y = 0 }
@@ -74,7 +74,121 @@ division_template = {
 }
 units = {
 	
-    
+    division = {
+		name = "1st Legion"
+		location = 950
+		division_template = "Star Legion"
+		start_experience_factor = 0.5
+		start_equipment_factor = 0.8
+	}
+
+	division = {
+		name = "HM 1st Royal Guard"
+		location = 179
+		division_template = "Star Knights"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "HM 2nd Royal Guard"
+		location = 179
+		division_template = "Star Knights"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+	division = {
+		name = "HM 3rd Royal Guard"
+		location = 179
+		division_template = "Star Knights"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+	
+	division = {
+		name = "2nd Legion"
+		location = 574
+		division_template = "Star Legion"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+
+	division = {
+		name = "3rd Legion"
+		location = 11683
+		division_template = "Star Legion"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+
+	division = {
+		name = "4th Legion"
+		location = 11715
+		division_template = "Star Legion"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+
+	division = {
+		name = "5th Legion"
+		location = 11672
+		division_template = "Star Legion"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+
+	division = {
+		name = "6th Legion"
+		location = 3022
+		division_template = "Star Legion"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+
+	division = {
+		name = "7th Legion"
+		location = 11710
+		division_template = "Star Legion"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+
+	division = {
+		name = "8th Legion"
+		location = 758
+		division_template = "Star Legion"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+
+	division = {
+		name = "9th Legion"
+		location = 9741
+		division_template = "Star Legion"
+		start_experience_factor = 0.7
+		start_equipment_factor = 0.9
+	}
+
+	division = {
+		name = "1st Armored"
+		location = 9573
+		division_template = "Armored Core"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "2nd Armored"
+		location = 6478
+		division_template = "Armored Core"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1.0
+	}
+	division = {
+		name = "3rd Armored"
+		location = 10244
+		division_template = "Armored Core"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1.0
+	}
 
 }
 

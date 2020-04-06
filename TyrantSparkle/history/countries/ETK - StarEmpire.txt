@@ -1,5 +1,9 @@
 capital = 3
 
+set_country_flag = "ETK_fascism"
+
+create_intelligence_agency = yes
+
 set_research_slots = 4
 
 oob = "ETK_1007"
