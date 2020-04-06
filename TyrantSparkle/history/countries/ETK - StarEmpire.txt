@@ -1,0 +1,53 @@
+capital = 3
+
+set_research_slots = 4
+
+oob = "ETK_1007"
+
+set_technology = {
+	pony_race = 1
+	melee_weapons = 1
+	melee_weapons1 = 1
+	pre_gw_artillery = 1
+	tech_pegasi = 1
+	early_fighter = 1
+	cv_early_fighter = 1
+	naval_bomber1 = 1
+	cv_naval_bomber1 = 1
+	early_bomber = 1
+	gwtank = 1
+	basic_light_tank = 1
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	interwar_antitank = 1
+	gw_artillery = 1
+	tech_support = 1
+	fuel_silos = 1
+	tech_recon = 1
+	tech_military_police = 1
+	tech_engineers = 1
+	trench_warfare = 1
+	motorised_infantry = 1
+	#guerrila_warfare_enable = 1
+}
+
+set_popularities = {
+    fascism = 80
+    democratic = 20
+}
+set_politics = {
+    ruling_party = fascism
+    last_election = "1002.2.24"
+    election_frequency = 48
+    elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Nightmare Sparkle"
+	picture = "NMSparks.tga"
+	ideology = fascism_ideology
+	traits = {
+		queen_of_the_people
+		warmonger
+	}
+}
