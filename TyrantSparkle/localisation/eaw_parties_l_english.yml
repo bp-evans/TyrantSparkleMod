@@ -12,8 +12,12 @@
  #neutrality_noun:0 "Non-Aligned"# Identical duplicate from hoi4
  #neutrality_desc:0 "Non-Aligned Regime"# moved to replace folder
 
+ 
+
  alicornrule:0 "Alicorn Rule"
  alicornrule_desc:0 "The rule of magical alicorn princesses that have lived for thousands of years. Their wisdom is just as old they are, to stand against them would be a great folly. They command endless respect and adoration from their subjects."
+ authoritarian_meritocracy:0 "Authoritarian Meritocracy"
+ authoritarian_meritocracy_desc:0 "Under Nightmare Sparkle's rule, hard work and intelligence are what pay off. Those who are capable rise to the top and help expand the empire, while those without the natural ability sink."
  tribal_federation:0 "Tribal Federation"
  tribal_federation_desc:0 "The Prìomh Chomhairle is a council of 87 Triaths and Toisiches who meet to discuss matters related to all tribes. The Taoiseach is elected to represent all the tribes internationally and to guide the tribes in matters of state."
  #conservatism:0 "Harmonic Monarchy"# moved to replace folder
@@ -77,6 +81,9 @@
  #centrism_desc:1 "Centrist democracies avoid political extremes both on the left and right, promoting moderate and pragmatic reforms which seek to find the middle ground."# moved to replace folder
  technocracy:0 "Technocracy"
  technocracy_desc:0 "Technocracy is a system of governance in which decision-makers are selected on the basis of their expertise, particularly with regard to scientific or technical knowledge. Although it contrasts with democracy, it does not necessarily imply eliminating elected representatives., but leaders are judged on their expertise rather than political affiliation. A technocratic government tries to use the scientific method to solve social problems and uses logical calculus to find the most rational solution to any given problem based on the information available."
+
+ ETK_fascism_party:0 "Authoritarian Meritocracy"
+ ETK_democratic_party:0 "Imperial Board of Regents"
 
  EQS_neutrality_party:0 "TTS"
  EQS_neutrality_party_long:0 "Three Tribes Supporters"

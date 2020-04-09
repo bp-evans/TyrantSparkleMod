@@ -34,6 +34,36 @@ set_technology = {
 	motorised_infantry = 1
 	#guerrila_warfare_enable = 1
 }
+actually_fix_weapon_techs = yes
+add_equipment_to_stockpile = {
+	type = infantry_equipment_0
+	amount = 10000
+	producer = ETK
+}
+add_equipment_to_stockpile = {
+	type = melee_equipment_1
+	amount = 1600
+	producer = ETK
+}
+add_tech_bonus = {
+	name = fighter_bonus
+	bonus = 3
+	uses = 1
+	technology = fighter1
+}
+add_tech_bonus = {
+	name = bomber_bonus
+	bonus = 0.1
+	uses = 1
+	category = tactical_bomber
+}
+set_convoys = 269
+set_popularities = {
+	democratic = 79
+	fascism = 1
+	communism = 20
+	neutrality = 0
+}
 
 set_popularities = {
     fascism = 80
@@ -49,7 +79,7 @@ set_politics = {
 create_country_leader = {
 	name = "Nightmare Sparkle"
 	picture = "NMSparks.tga"
-	ideology = fascism_ideology
+	ideology = authoritarian_meritocracy
 	traits = {
 		queen_of_the_people
 		warmonger

@@ -7,6 +7,17 @@ bookmarks = {
 		default_country = "EQS"
 		default = yes
 
+		"ETK"={
+			history = "ETK_GATHERING_STORM_DESC"
+			ideology = fascism
+			ideas = {
+
+			}
+			focuses = {
+				
+			}
+		}
+
 		"EQS"={
 			history = "EQS_GATHERING_STORM_DESC"
 			ideology = democratic
@@ -62,19 +73,19 @@ bookmarks = {
 				demand_equestria
 			}
 		}
-		"OLE"={
-			history = "OLE_GATHERING_STORM_DESC"
-			ideology = neutrality
-			ideas = {
-				OLE_currupt_government
-				OLE_raising_dissent
-			}
-			focuses = {
-				OLE_proclaim_deers_republic
-				OLE_squash_the_bugs
-				OLE_new_vikings
-			}
-		}
+		#"OLE"={
+		#	history = "OLE_GATHERING_STORM_DESC"
+		#	ideology = neutrality
+		#	ideas = {
+		#		OLE_currupt_government
+		#		OLE_raising_dissent
+		#	}
+		#	focuses = {
+		#		OLE_proclaim_deers_republic
+		#		OLE_squash_the_bugs
+		#		OLE_new_vikings
+		#	}
+		#}
 		# "NCR"={
 		# 	history = "NCR_GATHERING_STORM_DESC"
 		# 	ideology = neutrality
